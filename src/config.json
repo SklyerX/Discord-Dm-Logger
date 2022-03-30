@@ -1,6 +1,6 @@
 {
-    "token": "OTQ1MTI1MTIyNTYwMzg1MDU1.YhLmXA.D4X7X3PFTbIFYwYL_R583msD08E",
-    "prefix": "ts!",
-    "webhookLink": "https://discord.com/api/webhooks/958550251504013373/hYFP7dSHBh_TIQ9-qkfk6oRWnOuOXztqY_2ja-ymJCkPS2tCkosMieVevtj3r8Wpi4t5",
-    "uid": "805166992432431124"
+    "token": "You're Account Token",
+    "prefix": "Bot Prefix",
+    "webhookLink": "Webhook to log all the messages",
+    "uid": "You're account Id"
 }
