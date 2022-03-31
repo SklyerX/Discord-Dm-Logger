@@ -7,7 +7,7 @@
 ----------
 **Set-up: Script**
 
-- Fill in all the information required in the config.json located in the `src` folder
+- Fill in all the information required in the `config.json` located in the `src` folder
 - Run the `Launch` file and wait for all the packages to be installed.
 ----------
 **Contact Me**
